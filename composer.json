@@ -1,5 +1,5 @@
 {
-    "name": "ryanwinchester/hubspot-php",
+    "name": "felixmaier1989/hubspot-php",
     "description": "HubSpot PHP API client",
     "keywords": [ "hubspot", "api" ],
     "license": "Apache-2.0",
