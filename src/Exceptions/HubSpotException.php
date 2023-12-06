@@ -2,7 +2,7 @@
 
 namespace SevenShores\Hubspot\Exceptions;
 
-class HubspotException extends \Exception
+class HubSpotException extends \Exception
 {
     //
 }
